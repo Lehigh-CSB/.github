@@ -20,12 +20,12 @@ We want to promote the use of GitHub among students, so there are several import
 
 ### The Executive Board
 
-* @adrianmross &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; President &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; amr424@lehigh.edu
-* [Alibek Kaliyev](@abekek) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vice President &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; abk224@lehigh.edu
-* [Alonso Cornejo](@AlonsoCornejo) &nbsp;&nbsp;&nbsp; Treasurer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dac323@lehigh.edu
-* [Liz Attumalil](@GIRvB6162) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secretary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; esa225@lehigh.edu
-* [Carl Freyer](@CarlFreyer) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Public Relations &nbsp;&nbsp;&nbsp;&nbsp; ckf225@lehigh.edu
-* [Kayla Kraft](@kaylaak) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professional Dev. &nbsp;&nbsp; kak524@lehigh.edu
-* [Max Colen](@Mlepic1114) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Technical Dev. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mrc324@lehigh.edu
-* [Juhi Grover](@juhigrover) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alumni Relations &nbsp;&nbsp;&nbsp; jug225@lehigh.edu
-* [Evan Jenkins](@EvanJenkins27) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Social Coord. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eaj224@lehigh.edu
+* [Adrian Ross](github.com/adrianmross) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; President &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; amr424@lehigh.edu
+* [Alibek Kaliyev](github.com/abekek) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vice President &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; abk224@lehigh.edu
+* [Alonso Cornejo](github.com/AlonsoCornejo) &nbsp;&nbsp;&nbsp; Treasurer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dac323@lehigh.edu
+* [Liz Attumalil](github.com/GIRvB6162) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secretary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; esa225@lehigh.edu
+* [Carl Freyer](github.com/CarlFreyer) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Public Relations &nbsp;&nbsp;&nbsp;&nbsp; ckf225@lehigh.edu
+* [Kayla Kraft](github.com/kaylaak) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professional Dev. &nbsp;&nbsp; kak524@lehigh.edu
+* [Max Colen](github.com/Mlepic1114) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Technical Dev. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mrc324@lehigh.edu
+* [Juhi Grover](github.com/juhigrover) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alumni Relations &nbsp;&nbsp;&nbsp; jug225@lehigh.edu
+* [Evan Jenkins](github.com/EvanJenkins27) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Social Coord. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eaj224@lehigh.edu
