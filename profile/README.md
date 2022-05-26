@@ -14,6 +14,8 @@ Lehigh University's Computer Science and Business Association is a student organ
 
 We want to promote the use of GitHub among students, so there are several important resources for students on this GitHub. 
 
+[GitHub wiki](https://github.com/Lehigh-CSB/Computer-Science-and-Business-Association/wiki) is where you can find professional development and technical resources, information about the organization and more!
+
 [GitHub discussions](https://github.com/orgs/Lehigh-CSB/discussions) will be the place where students can ask questions to everyone in CSB. Questions about registration, grading rationale, or really anything CSB related can be asked there. Prospective students can also ask questions if they would like to get to know more about the program.
 
 [GitHub projects](https://github.com/orgs/Lehigh-CSB/projects?type=beta) is GitHub's version of a Kanban board. We will use this to update everyone on what the Executive Board is working on. There also may be additional boards in the future for specific programs, projects, and events.
