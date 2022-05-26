@@ -23,7 +23,7 @@ We want to promote the use of GitHub among students, so there are several import
 ### The Executive Board
 
 * [Adrian Ross](https://github.com/adrianmross) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; President &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; amr424@lehigh.edu
-* [Alibek Kaliyev](https://github.com/abekek) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vice President &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; abk224@lehigh.edu
+* [Alibek Kaliyev](https://github.com/abekek) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vice President &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; alk224@lehigh.edu
 * [Alonso Cornejo](https://github.com/AlonsoCornejo) &nbsp;&nbsp;&nbsp; Treasurer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dac323@lehigh.edu
 * [Liz Attumalil](https://github.com/GIRvB6162) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secretary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; esa225@lehigh.edu
 * [Carl Freyer](https://github.com/CarlFreyer) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Public Relations &nbsp;&nbsp;&nbsp;&nbsp; ckf225@lehigh.edu
