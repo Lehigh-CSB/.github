@@ -34,7 +34,7 @@ We want to promote the use of GitHub among students, so there are several import
 * Carl Freyer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VP of Development &nbsp; ckf225@lehigh.edu
 * Juhi Grover &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VP of Experience &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; jug225@lehigh.edu
 * Eric Nguyen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Treasurer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ern226@lehigh.edu
-* Anya Kumar &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Public Relations &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ank726@lehigh.edu
+* Matthew Sargent &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Public Relations &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mas526@lehigh.edu
 * Vrushti Patel &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professional Dev. &nbsp;&nbsp;&nbsp;&nbsp; vap326@lehigh.edu
 * Julian Chattopadhyay &nbsp;&nbsp;&nbsp;&nbsp; Technical Dev. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; juc226@lehigh.edu
 * Karina Makhani &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alumni Relations &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; kamb26@lehigh.edu
