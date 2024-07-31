@@ -21,14 +21,17 @@ We want to promote the use of GitHub among students, so there are several import
 [GitHub projects](https://github.com/orgs/Lehigh-CSB/projects?type=beta) is GitHub's version of a Kanban board. We will use this to update everyone on what the Executive Board is working on. There also may be additional boards in the future for specific programs, projects, and events.
 
 ### The Executive Board
-
-* Liz Attumalil &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; President &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; esa225@lehigh.edu
-* Carl Freyer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VP of Development &nbsp; ckf225@lehigh.edu
-* Juhi Grover &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VP of Experience &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; jug225@lehigh.edu
-* Julian Chattopadhyay &nbsp;&nbsp;&nbsp;&nbsp; Technical Dev. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; juc226@lehigh.edu
-* Eric Nguyen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Treasurer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ern226@lehigh.edu
-* Matthew Sargent &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Public Relations &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mas526@lehigh.edu
-* Vrushti Patel &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professional Dev. &nbsp;&nbsp;&nbsp;&nbsp; vap326@lehigh.edu
-* Karina Makhani &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alumni Relations &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; kamb26@lehigh.edu
-* Daniel In &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Social Coord. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eaj224@lehigh.edu
+| Name                 | Position          | Email             |
+| -------------------- | ----------------- | ----------------- |
+| Julian Chattopadhyay | President         | juc226@lehigh.edu |
+| Vrushti Patel        | VP of Development | vap326@lehigh.edu |
+| Daniel In            | VP of Experience  | dai226@lehigh.edu |
+| Matt Sargent         | Treasurer         | mas526@lehigh.edu |
+| Sanchita Shrivastava | Secretary         | sas626@lehigh.edu |
+| Ben Stahl            | Technical Dev.    | bes227@lehigh.edu |
+| Zaki Khan            | Professional Dev. | zmk227@lehigh.edu |
+| Amanda Fogel         | Alumni Relations  | asf327@lehigh.edu |
+| Mithat Eroglu        | Public Relations  | mee227@lehigh.edu |
+| Ellee Segal          | Social Coord.     | ess227@lehigh.edu |
+| TBA                  | First Year Rep.   | TBA@lehigh.edu    |
 
