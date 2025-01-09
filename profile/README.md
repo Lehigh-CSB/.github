@@ -33,5 +33,5 @@ We want to promote the use of GitHub among students, so there are several import
 | Amanda Fogel         | Alumni Relations  | asf327@lehigh.edu |
 | Mithat Eroglu        | Public Relations  | mee227@lehigh.edu |
 | Ellee Segal          | Social Coord.     | ess227@lehigh.edu |
-| TBA                  | First Year Rep.   | TBA@lehigh.edu    |
+| Tenzing Dhelawa      | First Year Rep.   | ted228@lehigh.edu |
 
